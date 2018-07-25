@@ -1,0 +1,21 @@
+.column holder{
+    overflow: hidden;
+}
+
+.row{
+	display:flex;
+}
+
+.column{
+	flex:50%;
+}
+
+.feedback-holder p{
+	text-align:left;
+}
+
+@media (max-width:576px){
+	
+	.row {
+	display:block;
+	}}
