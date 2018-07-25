@@ -220,15 +220,16 @@ body {
 .btn:visited {
     display: inline-block;
     text-decoration: none;
-    padding: 20px 30px;
+    /*padding: 20px 30px;*/
     margin: 5rem 0rem;
     font-size: 5rem;
 }
 
 .btn--round {
     border-radius: 15px;
-	height:300px;
-	width:350px;
+	/*height:300px;
+	width:350px;*/
+    
 	word-wrap: break-word;
 }
 	@media (max-width: 500px) {
@@ -243,10 +244,10 @@ body {
 }
 
 .btn--pink h2 {
-	font-size:3.72rem;
+	font-size:5vmin;
 }
 .btn--pink p {
-	font-size:2.5rem;
+	font-size:2.5vmin;
 }
 
 
@@ -280,12 +281,12 @@ body {
 		width:50%;
 		height:50%;
 	}
-	.btn--pink h2 {
+	/*.btn--pink h2 {
 			font-size:4.3rem;
 		}
 		.btn--pink p{
 			font-size:3rem;
-		}
+		}*/
 		.video h2{
 			font-size:5rem;
 		}
@@ -293,10 +294,10 @@ body {
 			width:20px;
 			height:15px;
 		}
-		.col-12{
+		/*.col-12{
 	background-color:#ebf5f6;
 	
-}
+}*/
 			
 }
 
@@ -320,14 +321,15 @@ body {
 /* Style the button and place it in the middle of the container/image */
 .container_join .btn {
   position: absolute;
-  top: 50%;
+  top: 37%;
+    height: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #F38181;
   color: white;
   font-size: 16px;
-  padding: 33px 24px;
+  padding: 5% 5%;
   border: none;
   cursor: pointer;
   border-radius: 5px;
@@ -1787,6 +1789,7 @@ ul.tabs li.active {
 		margin-left: 5px;
     }
     .sthml-section__image--sthml {
+        left: -1vmin;
     }
 	
 	
@@ -2121,6 +2124,7 @@ ul.tabs li.active {
     .sthml-section__image--sthml {
         display: inline-block;
         vertical-align: top;
+        left: -2vmin;
     }
 	
 	.sthml-section__title {

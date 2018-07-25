@@ -475,7 +475,7 @@ text-align:center;  }
     border-radius: 10px;
     background: #b3dfde;
     text-align: center;
-    padding: 40px 20px;
+    padding: 5% 10%;
     color: #452b38;
     height: 210px;
     font-size: 1.4rem;
@@ -489,7 +489,7 @@ text-align:center;  }
     text-align: left;
     padding: 0 0 0 30px;
     position: relative;
-    margin: 3px 50px;
+    /*margin: 3px 50px;*/
   }
   .office-content .address   .address-ico{
     position: absolute;
@@ -597,7 +597,7 @@ textarea.form-field{
 }
 
 
-@media (max-width: 719px) {
+@media (max-width: 576px) {
   .site-wrapper{
     overflow: hidden;
     width: 100%;
@@ -664,6 +664,7 @@ overflow-x: auto;
     min-height: inherit;
     margin: 10px 0;
     font-size: 3.5rem;
+      height:100%;
   }
   .office-content h3{
     font-size: 5.1rem;
