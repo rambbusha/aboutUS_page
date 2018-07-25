@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    top: 0;
+}
+
+p {
+    margin: 0;
+}
+
+#map {
+    height: 100vh;
+    width: 100%;
+}
+
+/*style the box which holds the text of the information window*/
+.gm-style .gm-style-iw {
+    /*background-color: #fc3442 !important;*/
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    /*min-height: 120px !important;*/
+    padding-top: 15px;
+    display: block !important;
+}
+
+.gm-style-iw div {
+    padding-left: 10px;
+}
+
+.gm-style-iw > div {
+    overflow: hidden !important;
+}
+
+.iw-content {
+    width: 260px;
+    height: 130px;
+}
+
+/*style the annoying little arrow at the bottom*/
+.gm-style div div div div div div div div {
+    /*background-color: #fc3442;*/
+    margin: 0;
+    top: 0;
+    color: #fff;
+    font-size: 11px;
+}
+
+.image {
+    border-radius: 50%;
+    border: 1px solid #fff;
+    float: left;
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    /*float: left;*/
+    position: absolute;
+    margin-left: 30px;
+    margin-right: auto;
+    top: 35px;
+    left: 0;
+    right: 0;
+}
+
+.name {
+    /*float: left;*/
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 12px;
+    margin: 0;
+}
+
+.description, .role {
+    text-transform: uppercase;
+    font-weight: 200;
+    font-size: 10px;
+}
+
+.role {
+    /*float: left;*/
+    margin: 0;
+}
+
+.contact {
+    /*float: left;*/
+    margin: 0;
+}
+
+.gb-logo, .spons-logo {
+    position: absolute;
+    top: 85px;
+    left: 148px;
+    height: 10px;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.contact-info, .contact-info-spon {
+    position: absolute;
+    top: 110px !important;
+    left: 140px;
+    max-width: 100px;
+    padding-left: 8px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+}
+
+.contact-info {
+    border-left: 2px solid #182A3F;
+}
+
+.contact-info-spon {
+    border-left: 2px solid #ef474c;
+}
+
+.detailInfoStaff, .detailInfoSponsors {
+    position: absolute;
+    top: 110px !important;
+    left: 5px;
+    width: 120px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.location-background, .color-overlay {
+    position: absolute;
+    right: 0;
+    width: 100% !important;
+    height: 70px;
+}
+
+.location-background {
+    background-image: url('../img/Stockholm2.jpg');
+    background-size: cover;
+    background-position: center;
+    -webkit-box-shadow: inset 0px -10px 15px -6px rgba(255,255,255,1);
+    -moz-box-shadow: inset 0px -10px 15px -6px rgba(255,255,255,1);
+    box-shadow: inset 0px -10px 15px -6px rgba(255,255,255,1);
+}
+
+.color-overlay {
+    background-color: #fff;
+    opacity: 0.4;
+}
+
+.js-info-bubble-close {
+    display: none;
+}

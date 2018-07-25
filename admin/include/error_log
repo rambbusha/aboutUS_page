@@ -1,0 +1,334 @@
+[28-Aug-2017 00:10:34 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bfsktnrn'@'srv-hp9.netsons.net' (using password: NO) in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[28-Aug-2017 00:14:10 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thony@globuzzer.com'@'srv-hp9.netsons.net' (using password: YES) in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[28-Aug-2017 00:14:55 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'thony@globuzzer.com'@'srv-hp9.netsons.net' (using password: YES) in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[28-Aug-2017 00:22:56 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bfsktnrn'@'srv-hp9.netsons.net' (using password: YES) in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[28-Aug-2017 00:23:53 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bfsktnrn'@'srv-hp9.netsons.net' (using password: NO) in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[28-Aug-2017 00:25:01 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bfsktnrn'@'srv-hp9.netsons.net' (using password: YES) in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[08-Dec-2017 10:21:37 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 18
+[10-Dec-2017 18:23:09 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 18
+[27-Dec-2017 11:08:25 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 18
+[27-Dec-2017 21:03:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 18
+[27-Dec-2017 21:11:30 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 18
+[27-Dec-2017 21:19:45 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 18
+[27-Dec-2017 21:30:13 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 18
+[29-Dec-2017 12:01:17 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Dec-2017 13:06:28 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Dec-2017 13:15:34 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Dec-2017 13:45:56 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Dec-2017 13:54:19 Europe/Berlin] PHP Warning:  unlink(../../uploads/staff/.): Is a directory in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 16
+[29-Dec-2017 13:54:42 Europe/Berlin] PHP Warning:  unlink(../../uploads/staff/.): Is a directory in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 16
+[29-Dec-2017 13:55:23 Europe/Berlin] PHP Warning:  unlink(../../uploads/staff/.): Is a directory in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 16
+[29-Dec-2017 14:02:25 Europe/Berlin] PHP Warning:  unlink(../../uploads/staff/.): Is a directory in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 14
+[29-Dec-2017 14:02:25 Europe/Berlin] PHP Warning:  unlink(../../uploads/staff/..): Is a directory in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 14
+[29-Dec-2017 14:02:52 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Dec-2017 14:05:08 Europe/Berlin] PHP Warning:  unlink(../../uploads/staff/.): Is a directory in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 14
+[29-Dec-2017 14:05:08 Europe/Berlin] PHP Warning:  unlink(../../uploads/staff/..): Is a directory in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 14
+[29-Dec-2017 14:06:18 Europe/Berlin] PHP Warning:  unlink(../../uploads/staff/.): Is a directory in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 15
+[29-Dec-2017 14:06:18 Europe/Berlin] PHP Warning:  unlink(../../uploads/staff/..): Is a directory in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 15
+[29-Dec-2017 14:06:18 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 18
+[29-Dec-2017 14:09:34 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Dec-2017 14:09:47 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 18
+[29-Dec-2017 15:08:21 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Dec-2017 15:35:08 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[03-Jan-2018 11:19:11 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[03-Jan-2018 12:13:46 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[03-Jan-2018 12:41:05 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[03-Jan-2018 13:05:48 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[03-Jan-2018 13:12:41 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[03-Jan-2018 13:12:54 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[03-Jan-2018 13:16:04 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[03-Jan-2018 16:44:12 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 09:41:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 09:46:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 09:47:18 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 09:50:13 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:02:25 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:02:33 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:18:38 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:34:26 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:37:12 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:42:35 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:42:40 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:44:24 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:44:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:46:03 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:47:44 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 10:58:14 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 11:00:34 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 12:07:53 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 12:57:25 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 14:17:11 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[04-Jan-2018 14:18:41 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[05-Jan-2018 12:08:42 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[05-Jan-2018 14:27:16 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[05-Jan-2018 14:42:53 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[08-Jan-2018 10:08:08 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[08-Jan-2018 10:20:21 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[08-Jan-2018 13:11:47 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[08-Jan-2018 13:58:43 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[09-Jan-2018 14:50:58 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[09-Jan-2018 15:32:55 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[10-Jan-2018 13:47:57 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Jan-2018 12:03:37 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Jan-2018 12:32:57 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Jan-2018 15:35:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Jan-2018 15:43:20 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Jan-2018 15:50:42 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Jan-2018 12:23:58 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[15-Jan-2018 01:20:12 Europe/Berlin] PHP Warning:  main(): Couldn't fetch mysqli in /home/bfsktnrn/public_html/team/admin/include/insert_staff.inc.php on line 102
+[15-Jan-2018 01:20:23 Europe/Berlin] PHP Warning:  main(): Couldn't fetch mysqli in /home/bfsktnrn/public_html/team/admin/include/insert_staff.inc.php on line 102
+[15-Jan-2018 01:21:54 Europe/Berlin] PHP Warning:  main(): Couldn't fetch mysqli in /home/bfsktnrn/public_html/team/admin/include/insert_staff.inc.php on line 102
+[15-Jan-2018 01:23:53 Europe/Berlin] PHP Warning:  main(): Couldn't fetch mysqli in /home/bfsktnrn/public_html/team/admin/include/insert_staff.inc.php on line 102
+[15-Jan-2018 01:25:30 Europe/Berlin] PHP Warning:  main(): Couldn't fetch mysqli in /home/bfsktnrn/public_html/team/admin/include/insert_staff.inc.php on line 102
+[15-Jan-2018 01:25:36 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[16-Jan-2018 09:54:16 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[16-Jan-2018 10:02:02 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[16-Jan-2018 11:43:31 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[16-Jan-2018 13:54:12 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[16-Jan-2018 14:15:36 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[16-Jan-2018 14:38:35 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[16-Jan-2018 15:07:23 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[17-Jan-2018 09:39:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/bfsktnrn/public_html/team/admin/include/insert_staff.inc.php on line 14
+[17-Jan-2018 09:40:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/bfsktnrn/public_html/team/admin/include/insert_staff.inc.php on line 14
+[17-Jan-2018 09:40:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/bfsktnrn/public_html/team/admin/include/insert_staff.inc.php on line 14
+[17-Jan-2018 09:40:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/bfsktnrn/public_html/team/admin/include/insert_staff.inc.php on line 14
+[17-Jan-2018 09:42:55 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/bfsktnrn/public_html/team/admin/include/insert_staff.inc.php on line 14
+[17-Jan-2018 09:52:43 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[17-Jan-2018 10:17:21 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[17-Jan-2018 11:31:22 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[17-Jan-2018 14:41:24 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[17-Jan-2018 15:51:10 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[17-Jan-2018 15:51:51 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[17-Jan-2018 16:08:15 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[18-Jan-2018 11:25:32 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[18-Jan-2018 11:44:12 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[18-Jan-2018 13:59:31 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[18-Jan-2018 14:04:11 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[18-Jan-2018 14:50:19 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[18-Jan-2018 14:53:08 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[18-Jan-2018 14:53:15 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[24-Jan-2018 10:56:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$input' (T_VARIABLE) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 11
+[24-Jan-2018 10:56:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 10:57:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 10:57:56 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 10:58:02 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[24-Jan-2018 10:58:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:00:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:01:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:02:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:02:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:03:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:04:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:04:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:04:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:05:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:05:40 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[24-Jan-2018 11:05:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:06:09 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[24-Jan-2018 11:06:09 Europe/Berlin] PHP Notice:  Use of undefined constant MAX_FILE_SIZE_LOGOS - assumed 'MAX_FILE_SIZE_LOGOS' in /home/bfsktnrn/public_html/team/admin/include/parameters.php on line 10
+[24-Jan-2018 11:06:09 Europe/Berlin] PHP Notice:  Use of undefined constant MAX_NAME_LENGTH - assumed 'MAX_NAME_LENGTH' in /home/bfsktnrn/public_html/team/admin/include/parameters.php on line 14
+[24-Jan-2018 11:06:09 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/connection.php:5) in /home/bfsktnrn/public_html/team/admin/include/edit_staff.inc.php on line 126
+[24-Jan-2018 11:06:09 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/connection.php:5) in /home/bfsktnrn/public_html/team/admin/include/edit_staff.inc.php on line 127
+[24-Jan-2018 11:06:24 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[24-Jan-2018 11:06:24 Europe/Berlin] PHP Notice:  Use of undefined constant MAX_FILE_SIZE_LOGOS - assumed 'MAX_FILE_SIZE_LOGOS' in /home/bfsktnrn/public_html/team/admin/include/parameters.php on line 10
+[24-Jan-2018 11:06:24 Europe/Berlin] PHP Notice:  Use of undefined constant MAX_NAME_LENGTH - assumed 'MAX_NAME_LENGTH' in /home/bfsktnrn/public_html/team/admin/include/parameters.php on line 14
+[24-Jan-2018 11:06:24 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/connection.php:5) in /home/bfsktnrn/public_html/team/admin/include/edit_staff.inc.php on line 126
+[24-Jan-2018 11:06:24 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/connection.php:5) in /home/bfsktnrn/public_html/team/admin/include/edit_staff.inc.php on line 127
+[24-Jan-2018 11:08:26 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[24-Jan-2018 11:08:26 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/connection.php:5) in /home/bfsktnrn/public_html/team/admin/include/edit_sponsor.inc.php on line 131
+[24-Jan-2018 11:08:26 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/connection.php:5) in /home/bfsktnrn/public_html/team/admin/include/edit_sponsor.inc.php on line 132
+[24-Jan-2018 11:09:18 Europe/Berlin] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 11
+[24-Jan-2018 11:09:40 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[24-Jan-2018 11:09:40 Europe/Berlin] PHP Notice:  Undefined variable: mysqli in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 11
+[24-Jan-2018 11:09:40 Europe/Berlin] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 11
+[24-Jan-2018 11:10:20 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[24-Jan-2018 11:10:20 Europe/Berlin] PHP Notice:  Undefined variable: conn in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 11
+[24-Jan-2018 11:10:20 Europe/Berlin] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 11
+[24-Jan-2018 11:11:04 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[24-Jan-2018 11:11:04 Europe/Berlin] PHP Notice:  Undefined variable: conn in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:11:04 Europe/Berlin] PHP Fatal error:  Call to a member function real_escape_string() on null in /home/bfsktnrn/public_html/team/admin/include/sanitise_input.php on line 13
+[24-Jan-2018 11:13:19 Europe/Berlin] PHP Notice:  A session had already been started - ignoring session_start() in /home/bfsktnrn/public_html/team/admin/include/connection.php on line 5
+[24-Jan-2018 11:13:19 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/connection.php:5) in /home/bfsktnrn/public_html/team/admin/include/edit_sponsor.inc.php on line 131
+[24-Jan-2018 11:13:19 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/connection.php:5) in /home/bfsktnrn/public_html/team/admin/include/edit_sponsor.inc.php on line 132
+[24-Jan-2018 11:21:58 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[24-Jan-2018 12:41:17 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[24-Jan-2018 15:28:57 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[24-Jan-2018 15:32:18 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[26-Jan-2018 12:57:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/bfsktnrn/public_html/team/admin/include/rm_tuple_staff.inc.php on line 40
+[26-Jan-2018 13:22:15 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[26-Jan-2018 13:49:13 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Jan-2018 11:40:45 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Jan-2018 11:55:37 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Jan-2018 11:57:24 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Jan-2018 11:59:08 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[30-Jan-2018 10:16:32 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[30-Jan-2018 11:47:15 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[30-Jan-2018 11:55:59 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[30-Jan-2018 14:12:50 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[30-Jan-2018 14:18:46 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[30-Jan-2018 15:08:57 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[31-Jan-2018 13:06:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[31-Jan-2018 13:12:47 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[31-Jan-2018 14:27:33 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[31-Jan-2018 14:41:37 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[07-Feb-2018 13:16:30 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[10-Feb-2018 23:19:57 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 07:11:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 07:13:33 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 14:11:02 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 14:11:26 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 14:17:45 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 14:47:44 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 14:58:35 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:00:24 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:05:18 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:06:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:27:16 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:17) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 39
+[11-Feb-2018 15:27:16 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:17) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 40
+[11-Feb-2018 15:32:30 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:36:37 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:43:51 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:50:59 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:53:13 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:53:16 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:53:59 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:57:23 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:57:28 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:59:15 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 15:59:21 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 16:12:41 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 16:14:40 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:34) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 35
+[11-Feb-2018 16:28:53 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:34) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 35
+[11-Feb-2018 16:28:59 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:34) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 35
+[11-Feb-2018 16:31:50 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 16:56:59 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 16:57:06 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 17:27:40 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:35) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 36
+[11-Feb-2018 17:30:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 35
+[11-Feb-2018 17:30:54 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 35
+[11-Feb-2018 17:31:22 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:35) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 36
+[11-Feb-2018 17:36:51 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:36) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 37
+[11-Feb-2018 17:37:23 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:36) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 37
+[11-Feb-2018 17:38:15 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:36) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 37
+[11-Feb-2018 17:43:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 25
+[11-Feb-2018 17:44:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 25
+[11-Feb-2018 17:46:30 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 17:53:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=' in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 36
+[11-Feb-2018 17:53:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=' in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 36
+[11-Feb-2018 17:54:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=' in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 34
+[11-Feb-2018 17:54:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=' in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 34
+[11-Feb-2018 18:14:54 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=' in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 34
+[11-Feb-2018 19:10:47 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 19:18:18 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[11-Feb-2018 20:47:42 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Feb-2018 00:09:27 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Feb-2018 00:59:03 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Feb-2018 00:59:24 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Feb-2018 01:09:10 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Feb-2018 01:13:38 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Feb-2018 02:30:27 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Feb-2018 02:35:14 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Feb-2018 02:53:32 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Feb-2018 02:55:55 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[12-Feb-2018 13:38:12 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[13-Feb-2018 18:11:57 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[13-Feb-2018 18:22:52 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[13-Feb-2018 18:23:51 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[14-Feb-2018 01:57:00 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[15-Feb-2018 01:57:19 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 11:03:02 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 11:09:29 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 11:23:32 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 12:12:31 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 13:05:46 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 13:09:30 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 13:09:41 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 13:20:33 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 13:28:23 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 14:03:01 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 14:49:05 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 40
+[19-Feb-2018 14:49:05 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 41
+[19-Feb-2018 14:49:05 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 14:49:12 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 40
+[19-Feb-2018 14:49:12 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 41
+[19-Feb-2018 14:49:12 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 14:53:12 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 14:56:40 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 14:57:11 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 40
+[19-Feb-2018 14:57:11 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 41
+[19-Feb-2018 14:57:11 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 14:57:26 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 40
+[19-Feb-2018 14:57:26 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 41
+[19-Feb-2018 14:57:26 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 14:57:33 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 40
+[19-Feb-2018 14:57:33 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bfsktnrn/public_html/team/admin/include/login.inc.php:14) in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 41
+[19-Feb-2018 14:57:33 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 14:58:06 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 14:58:09 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 14:58:26 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 15:03:29 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[19-Feb-2018 15:04:00 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 15:14:43 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 15:15:47 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[19-Feb-2018 15:15:57 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 15:16:21 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 15:21:34 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 15:21:37 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 15:21:41 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 15:26:37 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[19-Feb-2018 15:52:02 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 64
+[19-Feb-2018 15:53:39 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[19-Feb-2018 15:53:43 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 64
+[19-Feb-2018 21:19:12 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 64
+[19-Feb-2018 21:19:53 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[20-Feb-2018 08:43:45 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 64
+[20-Feb-2018 08:49:37 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[20-Feb-2018 09:16:10 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 64
+[20-Feb-2018 11:08:19 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[20-Feb-2018 11:08:23 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[20-Feb-2018 11:08:48 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:08:55 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:09:09 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:10:21 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:10:34 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:10:59 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 70
+[20-Feb-2018 11:11:16 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 70
+[20-Feb-2018 11:11:20 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 70
+[20-Feb-2018 11:12:02 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 70
+[20-Feb-2018 11:14:37 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 70
+[20-Feb-2018 11:15:20 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 70
+[20-Feb-2018 11:15:27 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 70
+[20-Feb-2018 11:15:35 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:16:01 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:16:47 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:17:02 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:17:29 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:17:40 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 43
+[20-Feb-2018 11:17:52 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:18:27 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:18:38 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:18:42 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:18:48 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:19:11 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:19:49 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:20:24 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:22:53 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:23:16 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[20-Feb-2018 11:23:23 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:24:22 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:24:43 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[20-Feb-2018 11:24:48 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:28:46 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[20-Feb-2018 11:28:52 Europe/Berlin] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/bfsktnrn/public_html/team/admin/include/login.inc.php on line 63
+[20-Feb-2018 11:35:11 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[20-Feb-2018 17:05:45 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[20-Feb-2018 17:06:05 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[20-Feb-2018 17:31:48 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[21-Feb-2018 13:21:45 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[22-Feb-2018 08:11:19 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[23-Feb-2018 20:16:40 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[23-Feb-2018 20:17:48 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[28-Mar-2018 11:14:58 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[29-Mar-2018 11:32:21 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[20-Jun-2018 11:57:16 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22
+[26-Jun-2018 10:06:11 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/bfsktnrn/public_html/team/admin/include/logout.inc.php on line 22

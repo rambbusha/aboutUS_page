@@ -1,0 +1,13 @@
+[28-Aug-2017 00:40:16 Europe/Berlin] PHP Warning:  mysql_connect(): Access denied for user 'bfsktnrn_gb_team'@'srv-hp9.netsons.net' (using password: NO) in /home/bfsktnrn/public_html/team/map/phpsqlajax_dbinfo.php on line 12
+[28-Aug-2017 00:40:16 Europe/Berlin] PHP Warning:  mysql_connect(): Access denied for user 'bfsktnrn'@'srv-hp9.netsons.net' (using password: NO) in /home/bfsktnrn/public_html/team/map/staffdb2xml.php on line 15
+[28-Aug-2017 00:40:16 Europe/Berlin] PHP Warning:  mysql_connect(): Access denied for user 'bfsktnrn_gb_team'@'srv-hp9.netsons.net' (using password: NO) in /home/bfsktnrn/public_html/team/map/phpsqlajax_dbinfo.php on line 12
+[28-Aug-2017 00:40:16 Europe/Berlin] PHP Warning:  mysql_connect(): Access denied for user 'bfsktnrn'@'srv-hp9.netsons.net' (using password: NO) in /home/bfsktnrn/public_html/team/map/sponsorsdb2xml.php on line 15
+[23-Feb-2018 11:35:51 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in /home/bfsktnrn/public_html/team/map/staffdb2xml.php on line 47
+[23-Feb-2018 11:35:51 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in /home/bfsktnrn/public_html/team/map/staffdb2xml.php on line 47
+[23-Feb-2018 11:35:51 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in /home/bfsktnrn/public_html/team/map/staffdb2xml.php on line 47
+[23-Feb-2018 11:35:51 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in /home/bfsktnrn/public_html/team/map/staffdb2xml.php on line 47
+[23-Feb-2018 11:35:51 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in /home/bfsktnrn/public_html/team/map/staffdb2xml.php on line 47
+[23-Feb-2018 11:35:51 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in /home/bfsktnrn/public_html/team/map/staffdb2xml.php on line 47
+[23-Feb-2018 11:35:51 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in /home/bfsktnrn/public_html/team/map/staffdb2xml.php on line 47
+[23-Feb-2018 11:35:51 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in /home/bfsktnrn/public_html/team/map/staffdb2xml.php on line 47
+[23-Feb-2018 11:35:51 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in /home/bfsktnrn/public_html/team/map/staffdb2xml.php on line 47

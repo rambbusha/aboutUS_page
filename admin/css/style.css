@@ -1,0 +1,656 @@
+/*The code below should me moved to a CSS file*/
+
+
+/*Code below - Stuff that applies in general*/
+
+@import url('https://fonts.googleapis.com/css?family=Neuton:200,400');
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
+
+/* -- Style for general HTML -- */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: #F5F5F5;
+    color: #67727A;
+    font-family: 'Neutron', sans-serif;
+    margin: 0;
+}
+
+h2 {
+    font-size: 250%;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+h3 {
+    font-size: 125%;
+    line-height: 155%;
+    padding: 5% 0;
+    font-weight: 400;
+}
+
+
+/* Style for add button including search field */
+
+.addButtonClass {
+    position: relative;
+    float: right;
+    text-align: right;
+    padding-right: inherit;
+    margin-bottom: 5px;
+}
+
+.searchDiv {
+    float: left;
+    position: relative;
+    width: 155px;
+    margin-left: 10px;
+}
+
+.searchDiv i {
+    position: absolute;
+    z-index: 0 !important;
+    left: 70px;
+    top: 2px;
+    color: #7B7B7B;
+}
+
+svg:not(:root).svg-inline--fa {
+    position: absolute;
+    z-index: 2;
+    top: 14px;
+    left: 30px;
+}
+
+.addBtn {
+    position: relative;
+    background-color: #ff3d25;
+    width: 155px;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    margin-left: 5px;
+}
+
+.addBtn:hover {
+    background-color: #b53322;
+}
+
+.search {
+    position: relative;
+    z-index: 0 !important;
+    width: 135px;
+    padding: 10px;
+    outline: none;
+    background: #ddd;
+    text-indent: 22px;
+}
+
+
+/* -- Style for header -- */
+
+#top-header {
+    height: 18vh;
+    width: 100%;
+    background-color: #7d7d7d;
+    color: white;
+}
+
+#top-header form button {
+    background-color: #EA4D54;
+    float: right;
+    padding: 1vh 1vw 1vh 1vw;
+    width: 10vw;
+    text-align: center;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+#top-header img {
+    float: left;
+    height: 18vh;
+    width: auto;
+    padding-right: 3vh;
+}
+
+#top-header h3 {
+    float: none;
+    font-size: 5vh;
+    width: auto;
+    padding-top: 5vh;
+    margin-top: 0;
+}
+
+
+/* -- The navigation bar for Staff / Sponsor -- */
+
+#navBar {
+    background-color: #333;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.menuBarItem {
+    display: inline;
+    float: left;
+    width: 50%;
+}
+
+.menuBarLink {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    color: white !important;
+}
+
+#staffPagesMenuItem.menuBarItem {
+    background-color: #3f587d;
+}
+
+#sponsorPagesMenuItem.menuBarItem {
+    background-color: #3f457d;
+}
+
+
+/* -- Style for login-form -- */
+
+
+/* Bordered form */
+
+.login-form {
+    width: 350px;
+    padding: 40px 30px;
+    background: #eee;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    box-shadow: 1px 2px #888888;
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+}
+
+.form-group {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.form-control {
+    width: 100%;
+    height: 50px;
+    border: none;
+    text-align: center;
+    background: #fff;
+    color: #666;
+    border: 2px solid #ddd;
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    box-shadow: 1px -1px 2px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 1px -1px 2px rgba(0, 0, 0, 0.6);
+    -webkit-box-shadow: 1px -1px 2px rgba(0, 0, 0, 0.6);
+    -o-box-shadow: 1px -1px 2px rgba(0, 0, 0, 0.6);
+}
+
+.form-control:focus,
+.form-control:focus+.fa {
+    border-color: #EE5A5B;
+    color: #EE5A5B;
+}
+
+.form-group .fa {
+    position: absolute;
+    left: 15px;
+    top: 17px;
+    color: #999;
+}
+
+.log-btn {
+    background: #EE5A5B;
+    dispaly: inline-block;
+    width: 100%;
+    font-size: 16px;
+    height: 50px;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    box-shadow: 1px -1px 2px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 1px -1px 2px rgba(0, 0, 0, 0.6);
+    -webkit-box-shadow: 1px -1px 2px rgba(0, 0, 0, 0.6);
+    -o-box-shadow: 1px -1px 2px rgba(0, 0, 0, 0.6);
+}
+
+
+/* -- Style for modal -- */
+
+
+/* The Modal (background) */
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+
+/* Modal Content/Box */
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 35%;
+    /* Could be more or less, depending on screen size */
+}
+
+
+/* The Close Button */
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-content {
+    text-align: center;
+    background-color: #FFD2D2;
+    color: #D8000C;
+}
+
+#delete_info_text {
+    color: black;
+}
+
+.modal-content h2 {
+    font-weight: 800;
+    padding-bottom: 2vh;
+}
+
+.modal-content p {
+    padding-top: 2vh;
+    padding-bottom: 1vh;
+}
+
+.modal_buttons {
+    display: inline;
+}
+
+#mytext {
+    padding-right: 3vh;
+}
+
+#cancel_button {
+    padding-left: 3vh;
+}
+
+
+/* -- Style for SQL tables -- */
+
+.sql-table {
+    margin: auto;
+    border: none;
+    width: 90%;
+    height: auto;
+    padding: 5%;
+}
+
+.sql-table table {
+    overflow-x: auto;
+    width: inherit;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+.sql-table tr {
+    width: inherit;
+    font-weight: 900;
+    padding: 1vh 0 2vh 0;
+    height: 50px;
+}
+
+.sql-table th {
+    width: 20%;
+    font-weight: 400;
+    padding: 2vh 0 2vh 0;
+    text-align: center;
+}
+
+.sql-table td {
+    width: auto;
+    font-weight: 500;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+.sql-table a:link,
+a:visited {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 500;
+    padding-bottom: 1vh;
+}
+
+.sql-table a:hover,
+a:active {
+    color: #ff6325;
+}
+
+.picture {
+    width: 6vw;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.table_header {
+    background-color: #FC3442;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: snow;
+}
+
+.icon {
+    padding: 15px;
+}
+
+
+/* -- Style for input form -- */
+
+.input-section form {
+    border: 3px solid #f1f1f1;
+    padding-bottom: 0 !important;
+    margin: auto;
+    text-align: center;
+}
+
+.input-section input[type=text],
+.input-section input[type=password],
+.input-section input[type=email],
+select {
+    max-width: 100%;
+    width: 50vw;
+    padding: 12px 20px;
+    margin: 8px auto;
+    box-sizing: border-box;
+    align-items: center;
+    background-color: #aaaaaa;
+}
+
+.input-section select {
+    margin: 8px auto;
+}
+
+.input-section button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50vw;
+}
+
+.input-section label {
+    text-align: left;
+    display: block;
+    margin: auto 25%;
+    height: 0px;
+    padding: 5px 0px 15px 0px;
+    background: transparent;
+}
+
+.label_style {
+    width: auto;
+}
+
+/* Google Autocomplete */
+.pac-container {
+    z-index: 2000;
+}
+
+
+/* Add a hover effect for buttons */
+
+.input-section button:hover {
+    opacity: 0.8;
+}
+
+
+/* -- Get back to main button -- */
+
+#get-back form {
+    border: 4px;
+    height: auto;
+    text-align: center;
+}
+
+#get-back button {
+    background-color: #ff4949;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50vw;
+}
+
+
+/* Add a hover effect for buttons */
+
+#get-back button:hover {
+    opacity: 0.8;
+}
+
+
+/* -- Change picture -- */
+
+.change-picture {
+    text-align: center;
+    padding-bottom: 8vh;
+}
+
+.change-picture h3 {
+    text-align: center;
+    padding-top: 1vh;
+    padding-bottom: 0;
+}
+
+.change-picture img {
+    text-align: center;
+    width: 20vw;
+    max-width: 200px;
+    height: auto;
+    padding: 0vh 35vw;
+}
+
+.change-picture input[type=file] {
+    position: absolute;
+    left: 0;
+    opacity: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    cursor: pointer
+}
+
+.change-picture input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    margin: 10px auto;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    display: block;
+    font-size: 14px;
+}
+
+label {
+    display: block;
+    position: relative;
+    height: 41px;
+    width: 30%;
+    background: #4CAF50;
+    margin: auto;
+}
+
+#fileUploadDiv {
+    height: 41px;
+    line-height: 41px;
+    color: white;
+    font-size: 14px;
+}
+
+
+/* -- Error messages -- */
+
+.error_messages {
+    color: red;
+    font-size: smaller;
+}
+
+.errors-section .error_messages {
+    text-align: center;
+}
+
+.modal-overlay {
+    display: none;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .7);
+}
+
+.modal-window {
+    position: fixed;
+    width: 300px;
+    height: 300px;
+    background-color: #fff;
+    left: calc(50% - 150px);
+    top: calc(50% - 150px);
+}
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* -- jQuery dialog -- */
+.ui-widget-header {
+    background-color: rgb(238, 90, 91);
+    color: #fff;
+}
+
+#dialog-message {
+    height: 70px;
+}
+
+#dialog-message p {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.ui-dialog .ui-dialog-buttonpane {
+    display: flex;
+    justify-content: center;
+}
+
+/* -- Input-Modal --*/
+#inputModal input {
+    max-width: 100%;
+}
+
+#inputModal .modal-content {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-radius: 0;
+    width: 80%;
+}
+
+#inputModal .modal-dialog {
+    margin-top: 0;
+}
+
+#inputModal label {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#inputModal .input-section button {
+    background-color: #D8000C;
+    border-radius: 0;
+    width: 48.5%;
+}
+
+.button-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 90% !important;
+    }
+}
+
+/*-- Section Heading --*/
+.section-heading {
+    line-height: 100px;
+    margin-bottom: -80px;
+}
